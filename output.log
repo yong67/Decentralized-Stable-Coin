@@ -1,0 +1,4 @@
+No files changed, compilation skipped
+
+Ran 1 test for test/unit/DSCEngineTest.t.sol:DSCEngineTest
+[PASS] testCantLiquidateGoodHealthFactor() (gas: 394569)
